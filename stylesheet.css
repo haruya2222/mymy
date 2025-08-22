@@ -1,0 +1,75 @@
+.background {
+   background-image:url(https://images.pexels.com/photos/33052933/pexels-photo-33052933.jpeg);
+}
+
+.main {
+   height:1000px;
+    width:100%;
+    padding-bottom:100px;
+}
+
+.main-contents {
+    color:black;
+    letter-spacing:5px;
+    float:left;
+    
+}
+
+.main-contents h1 {
+    font-size:100px;
+    padding-bottom:100px;
+    text-align:center;
+}
+
+.main-contents p {
+    padding:30px;
+    font-size:30px;
+    opacity:0.5;
+    letter-spacing:3px;
+    color:aliceblue;
+    float:left;
+}
+
+.main-contents h2 {
+    padding-top:300px;
+    font-size:30px;
+    padding-left:1000px;
+}
+
+.main-information {
+    text-align:center;
+    height:400px;
+    padding-top:50px;
+}
+
+.main-information h2 {
+    font-size:90px;
+    font-family:Impact;
+    border-top:1px solid #050404;
+}
+
+
+
+.btn {
+    color:black;
+    padding:15px 10px;
+    border-radius:6px;
+}
+
+.instagram {
+    background-color:rgba(255, 0, 0, 0.5);
+   margin-right:50px;
+}
+
+.line {
+    background-color:rgba(0,200,50,0.5);
+    padding:15px 25px;
+}
+
+.text {
+    font-size:20px;
+}
+
+.fa {
+    padding-right:10px;
+}
